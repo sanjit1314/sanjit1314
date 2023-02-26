@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjit1314
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python,C
+- 🌱 I’m currently learning python,C,C++
 - 📫 How to reach me sanjit.sav04@gmail.com
 
 <!---
